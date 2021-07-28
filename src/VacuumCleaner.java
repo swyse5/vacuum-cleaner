@@ -1,7 +1,7 @@
 /*
  * Stuart Wyse
  * wysesh
- * 
+ * n
  * CSE 486 - HW1
  */
 
